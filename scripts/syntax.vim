@@ -20,3 +20,6 @@ let g:javascript_plugin_flow = 1
 :set shiftwidth=2
 :set expandtab
 
+let g:ale_linters = {
+\   'javascript': ['eslint', 'flow', 'prettier'],
+\}
