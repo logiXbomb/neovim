@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/slowie/go/src/github.com/powerchordinc/platform/apps/admin-v2'
+let g:netrw_dirhist_2='/Users/slowie/go/src/github.com/powerchordinc/platform/apps/admin-v2/src'
+let g:netrw_dirhist_3='/Users/slowie'
+let g:netrw_dirhist_4='/Users/slowie/temp/platform/apps/api-gateway'
+let g:netrw_dirhist_5='/Users/slowie/temp/platform/apps'
+let g:netrw_dirhist_6='/Users/slowie/temp/platform'
+let g:netrw_dirhist_7='/Users/slowie/temp/platform/pkg'
+let g:netrw_dirhist_8='/Users/slowie/temp/platform/pkg/graphql'
+let g:netrw_dirhist_9='/Users/slowie/temp/platform/pkg/graphql/parser'

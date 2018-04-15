@@ -14,6 +14,7 @@ endif
 let g:material_terminal_italics = 1
 
 :set number
+:set relativenumber
 let g:javascript_plugin_flow = 1
 
 :set tabstop=2
